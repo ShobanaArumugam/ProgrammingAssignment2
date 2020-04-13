@@ -7,10 +7,10 @@
 # 2. cacheSolve
 
 # makeCacheMatrix creates a following list containing a function 
-# 1. Set the value of the matrix
-# 2. Get the value of the matrix
-# 3. Set the value of inverse of the matrix
-# 4. Get the value of inverse of the matrix
+# 1. Set the value of the matrix.
+# 2. Get the value of the matrix.
+# 3. Set the value of inverse of the matrix.
+# 4. Get the value of inverse of the matrix.
 
 makeCacheMatrix <- function(x = matrix()) {
   inv <- NULL
